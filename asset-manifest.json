@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7fb2027b.chunk.css",
+    "main.js": "/static/js/main.8b8f3f3c.chunk.js",
+    "main.js.map": "/static/js/main.8b8f3f3c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6dfced65.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6dfced65.js.map",
+    "static/css/2.f7b705a0.chunk.css": "/static/css/2.f7b705a0.chunk.css",
+    "static/js/2.fd9f2109.chunk.js": "/static/js/2.fd9f2109.chunk.js",
+    "static/js/2.fd9f2109.chunk.js.map": "/static/js/2.fd9f2109.chunk.js.map",
+    "static/js/3.c5dda245.chunk.js": "/static/js/3.c5dda245.chunk.js",
+    "static/js/3.c5dda245.chunk.js.map": "/static/js/3.c5dda245.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.f7b705a0.chunk.css.map": "/static/css/2.f7b705a0.chunk.css.map",
+    "static/css/main.7fb2027b.chunk.css.map": "/static/css/main.7fb2027b.chunk.css.map",
+    "static/js/2.fd9f2109.chunk.js.LICENSE.txt": "/static/js/2.fd9f2109.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/ArbFONTS-UrdType.b6df7939.ttf",
+    "static/media/boxicons.min.css": "/static/media/boxicons.cbd149c5.ttf",
+    "static/media/dr_ahmed_logo.87b368e0.png": "/static/media/dr_ahmed_logo.87b368e0.png",
+    "static/media/logo.fab5ca8c.jpg": "/static/media/logo.fab5ca8c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dfced65.js",
+    "static/css/2.f7b705a0.chunk.css",
+    "static/js/2.fd9f2109.chunk.js",
+    "static/css/main.7fb2027b.chunk.css",
+    "static/js/main.8b8f3f3c.chunk.js"
+  ]
+}
